@@ -2,7 +2,7 @@
 ====
 
 0bin is a client-side-encrypted pastebin, so the server does not and does not need to store
-the keys, which are (temporarily) contained in the requested URL. 
+the keys, which are (temporarily) contained in the URL, but not the part that transmits to the server. 
 
 To tell someone what you pasted, give them the full lengthy URL (contains the key), some URL.shorteners break the scheme, so don't use those mindlessly.
 
