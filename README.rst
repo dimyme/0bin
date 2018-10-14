@@ -1,7 +1,23 @@
 0bin
 ====
 
-0bin is a client side encrypted pastebin that can run without a database.
+0bin is a client-side-encrypted pastebin, so the server does not and does not need to store
+the keys, which are (temporarily) contained in the requested URL. 
+
+To tell someone what you pasted, give them the full lengthy URL (contains the key), some URL.shorteners break the scheme, so don't use those mindlessly.
+
+0bin can run without a database. It is based on bottle.py, the single-file web-framework, aka function-library.
+
+size limit of pastes is about 500 KByte. expiry time is settable and "burn after read" mode (broken?).
+
+
+
+
+
+
+
+
+
 
 * Try it: `0bin.net <http://0bin.net>`_
 * `Report a bug <https://github.com/sametmax/0bin/issues>`_
