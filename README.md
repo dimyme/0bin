@@ -21,6 +21,7 @@ minus the # is the key, over which the user ("client side"), not the server, pre
 size limit of pastes is about 500 KByte. expiry time is settable and "burn after read" mode (broken?).
 
 
+One use case may be an encrypted link list: save your bookmarks across machines, then export as bookmarks.html for safekeeping. you get the idea.
 
 
 
