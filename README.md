@@ -117,7 +117,7 @@ What does 0bin not implement?
 * Hash collision prevention: the ratio "probability it happens/consequence seriousness" `is not worth it`_
 * Comments: it was initially planed. But comes with a lot of issues so we chose to focus on lower hanging fruits.
 
-
+```
 .. _moderate the pastebin content: http://www.zdnet.com/blog/security/pastebin-to-hunt-for-hacker-pastes-anonymous-cries-censorship/11336
 .. _zerobin project: https://github.com/sebsauvage/ZeroBin/
 .. _Python: https://en.wikipedia.org/wiki/Python_(programming_language)
@@ -130,6 +130,7 @@ What does 0bin not implement?
 .. _node.js: http://nodejs.org/
 .. _is not worth it: http://stackoverflow.com/questions/201705/how-many-random-elements-before-md5-produces-collisions
 .. _WTF licence: http://en.wikipedia.org/wiki/WTFPL
+```
 
 Contributing
 =============
