@@ -1,5 +1,9 @@
-0bin   wiki home:  https://github.com/dimyme/0bin/wiki
+0bin   
 ====
+
+
+wiki home:  https://github.com/dimyme/0bin/wiki
+
 
 0bin is a client-side-encrypted pastebin, so the server cannot and does not need to store
 the keys, which are contained in the URL behind the ''#'' char , a part that does not transmit to the server. 
