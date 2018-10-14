@@ -13,6 +13,10 @@ https://0bin.net/paste/AqRPX4BkRi4EQjfs#tp6B5PBaFQfhN-Zb+qcjVpvrzMu7XexarFGjay7f
 
 #tp6B5PBaFQfhN-Zb+qcjVpvrzMu7XexarFGjay7fB5H
 
+the mere URL    https://0bin.net/paste/AqRPX4BkRi4EQjfs   without the key part does not get you far.
+
+
+
 minus the # is the key, over which the user ("client side"), not the server, pretty much has control over.
 
 
