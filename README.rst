@@ -19,7 +19,7 @@ size limit of pastes is about 500 KByte. expiry time is settable and "burn after
 
 
 
-* Try it: `0bin.net <http://0bin.net>`_
+* Try it on an example deployment at  `0bin.net <http://0bin.net>`_
 * `Report a bug <https://github.com/sametmax/0bin/issues>`_
 
 0bin allows anybody to host a pastebin while welcoming any type of content to
