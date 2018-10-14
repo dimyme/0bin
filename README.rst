@@ -1,10 +1,20 @@
 0bin
 ====
 
-0bin is a client-side-encrypted pastebin, so the server does not and does not need to store
-the keys, which are (temporarily) contained in the URL, but not the part that transmits to the server. 
+0bin is a client-side-encrypted pastebin, so the server cannot and does not need to store
+the keys, which are contained in the URL behind the ''#'' char , a part that does not transmit to the server. 
 
-To tell someone what you pasted, give them the full lengthy URL (contains the key), some URL.shorteners break the scheme, so don't use those mindlessly.
+To tell someone what you pasted, give them the full lengthy URL (contains the key after #), some URL.shorteners break the scheme, so don't use those mindlessly.
+
+see this example
+
+https://0bin.net/paste/AqRPX4BkRi4EQjfs#tp6B5PBaFQfhN-Zb+qcjVpvrzMu7XexarFGjay7fB5H
+
+
+#tp6B5PBaFQfhN-Zb+qcjVpvrzMu7XexarFGjay7fB5H
+
+minus the # is the key, over which the user ("client side"), not the server, pretty much has control over.
+
 
 0bin can run without a database. It is based on bottle.py, the single-file web-framework, aka function-library.
 
