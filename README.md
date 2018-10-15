@@ -20,6 +20,9 @@ minus the # is the key, over which the user ("client side"), not the server, pre
 
 the mere URL    https://0bin.net/paste/AqRPX4BkRi4EQjfs   without the key part does not get you far.
 
+This is what "Get short url" and "Email this" gives you, albeit it is of little utility without key.
+Copy the full address with #KEY.KEY.KEY....   from the browser's address bar instead.
+
 
 To tell someone what you pasted, give them the full lengthy URL (contains the key after #), some URL.shorteners break the scheme, so don't use those mindlessly.
 
