@@ -34,7 +34,7 @@ size limit of pastes is about 500 KByte. expiry time is settable and "burn after
 
 One use case may be an encrypted link list: save your bookmarks across machines, then export as bookmarks.html for safekeeping. you get the idea.
 
-
+The pastes-counter resides with the paste content somewhere near ...../lib/python3.7/site-packages/zerobin/static/content/counter  where you see the timestamps too.
 
 
 
